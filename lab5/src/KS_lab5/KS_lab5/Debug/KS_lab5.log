@@ -1,0 +1,53 @@
+﻿  bios.cpp
+  Unknown compiler version - please run the configure tests and report the results
+E:\Downloads_telegram\KS\KS\Project\systemc-2.3.2-master\systemc-2.3.2-master\KS_lab5\KS_lab5\bios.cpp(49,20): error C2039: 'delayed': is not a member of 'sc_core::sc_in<bool>'
+E:\Program\systemc-2.3.2\src\sysc\communication\sc_signal_ports.h(398): message : see declaration of 'sc_core::sc_in<bool>'
+E:\Downloads_telegram\KS\KS\Project\systemc-2.3.2-master\systemc-2.3.2-master\KS_lab5\KS_lab5\bios.cpp(49,6): error C3861: 'wait_until': identifier not found
+  dcache.cpp
+  Unknown compiler version - please run the configure tests and report the results
+E:\Downloads_telegram\KS\KS\Project\systemc-2.3.2-master\systemc-2.3.2-master\KS_lab5\KS_lab5\dcache.cpp(51,20): error C2039: 'delayed': is not a member of 'sc_core::sc_in<bool>'
+E:\Program\systemc-2.3.2\src\sysc\communication\sc_signal_ports.h(398): message : see declaration of 'sc_core::sc_in<bool>'
+E:\Downloads_telegram\KS\KS\Project\systemc-2.3.2-master\systemc-2.3.2-master\KS_lab5\KS_lab5\dcache.cpp(51,6): error C3861: 'wait_until': identifier not found
+  exec.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  fetch.cpp
+  Unknown compiler version - please run the configure tests and report the results
+E:\Downloads_telegram\KS\KS\Project\systemc-2.3.2-master\systemc-2.3.2-master\KS_lab5\KS_lab5\fetch.cpp(62,27): error C2039: 'delayed': is not a member of 'sc_core::sc_in<bool>'
+E:\Program\systemc-2.3.2\src\sysc\communication\sc_signal_ports.h(398): message : see declaration of 'sc_core::sc_in<bool>'
+E:\Downloads_telegram\KS\KS\Project\systemc-2.3.2-master\systemc-2.3.2-master\KS_lab5\KS_lab5\fetch.cpp(62,63): error C2039: 'delayed': is not a member of 'sc_core::sc_in<bool>'
+E:\Program\systemc-2.3.2\src\sysc\communication\sc_signal_ports.h(398): message : see declaration of 'sc_core::sc_in<bool>'
+E:\Downloads_telegram\KS\KS\Project\systemc-2.3.2-master\systemc-2.3.2-master\KS_lab5\KS_lab5\fetch.cpp(62,4): error C3861: 'wait_until': identifier not found
+E:\Downloads_telegram\KS\KS\Project\systemc-2.3.2-master\systemc-2.3.2-master\KS_lab5\KS_lab5\fetch.cpp(126,26): error C2039: 'delayed': is not a member of 'sc_core::sc_in<bool>'
+E:\Program\systemc-2.3.2\src\sysc\communication\sc_signal_ports.h(398): message : see declaration of 'sc_core::sc_in<bool>'
+E:\Downloads_telegram\KS\KS\Project\systemc-2.3.2-master\systemc-2.3.2-master\KS_lab5\KS_lab5\fetch.cpp(126,62): error C2039: 'delayed': is not a member of 'sc_core::sc_in<bool>'
+E:\Program\systemc-2.3.2\src\sysc\communication\sc_signal_ports.h(398): message : see declaration of 'sc_core::sc_in<bool>'
+E:\Downloads_telegram\KS\KS\Project\systemc-2.3.2-master\systemc-2.3.2-master\KS_lab5\KS_lab5\fetch.cpp(126,3): error C3861: 'wait_until': identifier not found
+E:\Downloads_telegram\KS\KS\Project\systemc-2.3.2-master\systemc-2.3.2-master\KS_lab5\KS_lab5\fetch.cpp(150,26): error C2039: 'delayed': is not a member of 'sc_core::sc_in<bool>'
+E:\Program\systemc-2.3.2\src\sysc\communication\sc_signal_ports.h(398): message : see declaration of 'sc_core::sc_in<bool>'
+E:\Downloads_telegram\KS\KS\Project\systemc-2.3.2-master\systemc-2.3.2-master\KS_lab5\KS_lab5\fetch.cpp(150,62): error C2039: 'delayed': is not a member of 'sc_core::sc_in<bool>'
+E:\Program\systemc-2.3.2\src\sysc\communication\sc_signal_ports.h(398): message : see declaration of 'sc_core::sc_in<bool>'
+E:\Downloads_telegram\KS\KS\Project\systemc-2.3.2-master\systemc-2.3.2-master\KS_lab5\KS_lab5\fetch.cpp(150,3): error C3861: 'wait_until': identifier not found
+  floating.cpp
+  Unknown compiler version - please run the configure tests and report the results
+E:\Downloads_telegram\KS\KS\Project\systemc-2.3.2-master\systemc-2.3.2-master\KS_lab5\KS_lab5\floating.cpp(77,29): error C2039: 'delayed': is not a member of 'sc_core::sc_in<bool>'
+E:\Program\systemc-2.3.2\src\sysc\communication\sc_signal_ports.h(398): message : see declaration of 'sc_core::sc_in<bool>'
+E:\Downloads_telegram\KS\KS\Project\systemc-2.3.2-master\systemc-2.3.2-master\KS_lab5\KS_lab5\floating.cpp(77,9): error C3861: 'wait_until': identifier not found
+  icache.cpp
+  Unknown compiler version - please run the configure tests and report the results
+E:\Downloads_telegram\KS\KS\Project\systemc-2.3.2-master\systemc-2.3.2-master\KS_lab5\KS_lab5\icache.cpp(55,20): error C2039: 'delayed': is not a member of 'sc_core::sc_in<bool>'
+E:\Program\systemc-2.3.2\src\sysc\communication\sc_signal_ports.h(398): message : see declaration of 'sc_core::sc_in<bool>'
+E:\Downloads_telegram\KS\KS\Project\systemc-2.3.2-master\systemc-2.3.2-master\KS_lab5\KS_lab5\icache.cpp(55,6): error C3861: 'wait_until': identifier not found
+  main.cpp
+  Unknown compiler version - please run the configure tests and report the results
+E:\Downloads_telegram\KS\KS\Project\systemc-2.3.2-master\systemc-2.3.2-master\KS_lab5\KS_lab5\main.cpp(64,10): fatal error C1083: Cannot open include file: 'sys/times.h': No such file or directory
+  paging.cpp
+  Unknown compiler version - please run the configure tests and report the results
+E:\Downloads_telegram\KS\KS\Project\systemc-2.3.2-master\systemc-2.3.2-master\KS_lab5\KS_lab5\paging.cpp(52,29): error C2039: 'delayed': is not a member of 'sc_core::sc_in<bool>'
+E:\Program\systemc-2.3.2\src\sysc\communication\sc_signal_ports.h(398): message : see declaration of 'sc_core::sc_in<bool>'
+E:\Downloads_telegram\KS\KS\Project\systemc-2.3.2-master\systemc-2.3.2-master\KS_lab5\KS_lab5\paging.cpp(52,6): error C3861: 'wait_until': identifier not found
+E:\Downloads_telegram\KS\KS\Project\systemc-2.3.2-master\systemc-2.3.2-master\KS_lab5\KS_lab5\paging.cpp(72,30): error C2039: 'delayed': is not a member of 'sc_core::sc_in<bool>'
+E:\Program\systemc-2.3.2\src\sysc\communication\sc_signal_ports.h(398): message : see declaration of 'sc_core::sc_in<bool>'
+E:\Downloads_telegram\KS\KS\Project\systemc-2.3.2-master\systemc-2.3.2-master\KS_lab5\KS_lab5\paging.cpp(72,4): error C3861: 'wait_until': identifier not found
+  pic.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  Generating Code...
